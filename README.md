@@ -14,10 +14,33 @@ Generate reports and dashboards
 
 Implement business logic with Process Builder or Validation Rules
 
-| Feature                  | Description                                 |
-| ------------------------ | ------------------------------------------- |
-| 🛠️ Object Customization | Created custom objects & fields             |
-| ⚙️ Automation with Flow  | Implemented record-triggered flows          |
-| 🧠 Apex Logic            | Wrote Apex triggers for lead conversion     |
-| 📊 Dashboards & Reports  | Built dashboards to visualize key metrics   |
-| 🔐 Security Model        | Configured roles, profiles, and permissions |
+# 📦 Technologies Used
+Salesforce Lightning Platform
+
+Flow Builder
+
+Apex
+
+Lightning App Builder
+
+Validation Rules
+
+Reports & Dashboards
+
+# 📝 Future Enhancements
+Add test classes for Apex automation
+
+Include integration with external APIs
+
+Enable email alerts with custom templates
+
+Add mobile-optimized Lightning pages
+
+# 🙌 Acknowledgements
+Salesforce Trailhead
+
+Salesforce Developer Documentation
+
+Inspiration from real business CRM use cases
+
+
